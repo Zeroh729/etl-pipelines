@@ -6,11 +6,11 @@
 
 ## To start a new project run:
 
-> `cookiecutter https://github.com/aguiarandre/etl-pipelines`
+> `cookiecutter https://github.com/Zeroh729/etl-pipelines`
 
 for unix users or 
 
-> `cookiecutter.exe https://github.com/aguiarandre/etl-pipelines`
+> `cookiecutter.exe https://github.com/Zeroh729/etl-pipelines`
 
 for windows users.
 
@@ -61,3 +61,4 @@ for unix users.
 Also, to run the documentation as is, you'll have to install a requirement. To do that, just type 
 
 > `pip install -r requirements.txt`
+
